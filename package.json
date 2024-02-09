@@ -1,0 +1,14 @@
+{
+  "name": "hack-o-mania",
+  "version": "1.0.0",
+  "description": "Hack-o-Mania",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "abhi32GBram",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
